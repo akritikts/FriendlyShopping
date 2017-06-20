@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "303798716909",
+    "firebase_url": "https://friendly-shopping.firebaseio.com",
+    "project_id": "friendly-shopping",
+    "storage_bucket": "friendly-shopping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303798716909:android:4154ba4f5951c313",
+        "android_client_info": {
+          "package_name": "sbi_hackthon.com.friendlyshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303798716909-32dqf7loghoonm8b4kur0pklfnkgkuo8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sbi_hackthon.com.friendlyshopping",
+            "certificate_hash": "951e1daf39e0042967383bc17253217c733ba040"
+          }
+        },
+        {
+          "client_id": "303798716909-pljna8r5me772h18pvaembqtu61p44kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAICUeEZVAL4OQ2ISedFFhjdPbRrSc-GvQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303798716909-pljna8r5me772h18pvaembqtu61p44kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
